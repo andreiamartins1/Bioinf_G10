@@ -13,4 +13,7 @@ Inês Duarte, PG53868.
 #### Resumo:
 
 ## Informação do dataset:
-https://www.cbioportal.org/study/summary?id=coadread_tcga_pan_can_atlas_2018
+Link: https://www.cbioportal.org/study/summary?id=coadread_tcga_pan_can_atlas_2018
+
+598 amostras,
+592 pacientes com dados de expressão RNA-seq.
