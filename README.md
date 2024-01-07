@@ -1,5 +1,6 @@
 # Bioinf_G10
-Este trabalho realizado no âmbito da Unidade Curricular de Bioinformática.
+Este trabalho realizado no âmbito da Unidade Curricular de Bioinformática, tem como objetivo a análise de um conjunto de dados de expressão genética, em
+conjunto com metadados clínicos disponíveis sobre as respetivas amostras e pacientes, usando o Python como linguagem de programação.
 
 #### Autores:
 Andreia Martins, PG53663;
@@ -13,6 +14,7 @@ Inês Duarte, PG53868.
 #### Resumo:
 
 ## Informação do dataset:
+Colorectal Adenocarcinoma (TCGA, PanCancer Atlas)
 Link: https://www.cbioportal.org/study/summary?id=coadread_tcga_pan_can_atlas_2018
 
 598 amostras,
