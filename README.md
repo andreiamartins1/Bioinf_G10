@@ -1,4 +1,6 @@
 # Bioinf_G10
+
+#### Resumo:
 Este trabalho realizado no âmbito da Unidade Curricular de Bioinformática, tem como objetivo a análise de um conjunto de dados de expressão genética, em
 conjunto com metadados clínicos disponíveis sobre as respetivas amostras e pacientes, usando o Python como linguagem de programação.
 
@@ -10,8 +12,6 @@ Diogo Rodrigues, PG54450;
 Hugo Lopes, PG53861;
 
 Inês Duarte, PG53868.
-
-#### Resumo:
 
 ## Informação do dataset:
 Colorectal Adenocarcinoma (TCGA, PanCancer Atlas)
