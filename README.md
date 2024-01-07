@@ -2,13 +2,13 @@
 Este trabalho realizado no âmbito da Unidade Curricular de Bioinformática.
 
 #### Authors:
-Andreia Martins, PG53663
+Andreia Martins, PG53663;
 
-Diogo
+Diogo Rodrigues, PG54450;
 
-Hugo 
+Hugo Lopes, PG53861;
 
-Inês
+Inês Duarte, PG53868.
 
 #### Resumo:
 
