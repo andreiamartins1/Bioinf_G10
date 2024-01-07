@@ -24,7 +24,18 @@ Link: https://www.cbioportal.org/study/summary?id=coadread_tcga_pan_can_atlas_20
 
 ## Metodologia:
 #### Etapa 1:
+Análise Inicial de Dados
+
+Começamos por carregar e analisar o conjunto de dados, descrevendo suas características com base na documentação existente. Efetuamos o pré-processamento necessário, selecionando duas ou três variáveis de metadados relevantes. A secção 1 do Notebook inclui uma breve descrição das características dos dados, detalhes do pré-processamento e gráficos exploratórios.
 
 #### Etapa 2:
+Redução de Dimensionalidade e Clustering
+
+Aplicamos técnicas de redução de dimensionalidade aos dados para simplificar sua representação. Utilizamos métodos de clustering para identificar padrões. A secção 2 do Notebook contém a descrição das técnicas usadas, a aplicação dos métodos e a análise dos resultados obtidos.
 
 #### Etapa 3:
+Comparação de Modelos de Aprendizagem de Máquina
+
+Comparamos o desempenho de pelo menos três modelos de Aprendizagem de Máquina no conjunto de dados. Calculamos métricas de erro, estabelecemos uma estimação de erro e otimizamos os modelos selecionados. A secção 3 do Notebook apresenta a comparação, cálculo de métricas, otimização e análise dos resultados.
+
+Estas etapas proporcionam uma abordagem abrangente para explorar, analisar e modelar os dados.
