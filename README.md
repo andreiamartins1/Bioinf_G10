@@ -15,9 +15,11 @@ Inês Duarte, PG53868.
 
 ## Informação do dataset:
 Colorectal Adenocarcinoma (TCGA, PanCancer Atlas)
+
 Link: https://www.cbioportal.org/study/summary?id=coadread_tcga_pan_can_atlas_2018
 
-598 amostras,
+598 amostras;
+
 592 pacientes com dados de expressão RNA-seq.
 
 ## Metodologia:
