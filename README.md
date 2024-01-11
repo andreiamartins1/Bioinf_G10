@@ -31,11 +31,12 @@ Começamos por carregar e analisar o conjunto de dados, descrevendo as suas cara
 #### Etapa 2:
 Redução de Dimensionalidade e Clustering
 
-Aplicamos técnicas de redução de dimensionalidade aos dados para simplificar a sua representação. Utilizamos métodos de clustering para identificar padrões. A secção 2 do Notebook contém a descrição das técnicas usadas, a aplicação dos métodos e a análise dos resultados obtidos.
+Iremos aplicar técnicas de redução de dimensionalidade aos dados para simplificar a sua representação e métodos de clustering para identificar padrões.
 
 #### Etapa 3:
 Comparação de Modelos de Aprendizagem de Máquina
 
-Comparamos o desempenho de pelo menos três modelos de Aprendizagem de Máquina no conjunto de dados. Calculamos métricas de erro, estabelecemos uma estimação de erro e otimizamos os modelos selecionados. A secção 3 do Notebook apresenta a comparação, cálculo de métricas, otimização e análise dos resultados.
+Iremos comparar o desempenho de pelo menos três modelos de Aprendizagem de Máquina no conjunto de dados.
+
 
 Estas etapas proporcionam uma abordagem abrangente para explorar, analisar e modelar os dados.
